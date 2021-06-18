@@ -19,7 +19,6 @@ Users should be able to view the optimal layout depending on their device's scre
 
 ### Screenshot
 
-![Desktop-preview](images/desktop.mp4)
 ![Desktop-design-screenshot](images/screenshot-desktop.jpg)
 ![Mobile-design-screenshot](images/screenshot-mobile.jpg)
 
